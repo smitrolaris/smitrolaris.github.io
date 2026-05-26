@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
