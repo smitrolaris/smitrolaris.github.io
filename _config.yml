@@ -23,14 +23,14 @@ repository               : "smitrolaris/smitrolaris.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Stavros Mitrolaris"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at University of Maryland, College Park "
   location         : "College Park, MD, USA"
   employer         : 
   uri              : # URL
-  email            :  
+  email            : "stavros@umd.edu"
 
   # Academic websites
   academia         : # URL
