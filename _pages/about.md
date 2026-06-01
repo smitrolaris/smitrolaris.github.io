@@ -13,4 +13,4 @@ Before coming to Maryland, I earned my diploma (BSc and integrated MEng) in Elec
 News
 ======
 
-- **May 2026:** Presented our paper "“Age-Based Scheduling for a Memory-Constrained Quantum Switch” at INFOCOM QuNAP, Tokyo, Japan.
+- **May 2026:** Presented our paper "Age-Based Scheduling for a Memory-Constrained Quantum Switch" at INFOCOM QuNAP, Tokyo, Japan.
